@@ -10,4 +10,4 @@ The Concept2 SDK is a Swift package that provides functionality for connecting t
 You can install the Concept2 SDK using Swift Package Manager (SPM). Simply copy the package URL:
 
 ```swift
-    https://github.com/RowBotics/Concept2-SDK
+https://github.com/RowBotics/Concept2-SDK
